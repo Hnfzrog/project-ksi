@@ -18,7 +18,7 @@ import { TeamComponent } from './team/team.component';
   ],
   imports: [
     BrowserModule,
-    AppRoutingModule
+    AppRoutingModule,
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -146,11 +146,11 @@ body, h1, h2, p, ul, li, a {
   
   /* Button */
   .btn-learn-more {
-    background: linear-gradient(90deg, #06D6A0, #118AB2);
+    background: #515151;
     color: white;
     border: none;
     padding: 12px 25px;
-    border-radius: 30px;
+    border-radius: 5px;
     text-decoration: none;
     font-size: 1rem;
     font-weight: bold;
@@ -158,7 +158,7 @@ body, h1, h2, p, ul, li, a {
     transition: all 0.3s ease-in-out;
   
     &:hover {
-      background: linear-gradient(90deg, #118AB2, #06D6A0);
+      background: #756c6c;
       transform: translateY(-3px);
       box-shadow: 0px 6px 10px rgba(0, 0, 0, 0.15);
     }
